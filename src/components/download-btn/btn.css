@@ -1,0 +1,9 @@
+.download-btn {
+    background: linear-gradient(#FFCE3E,#CF7A0F);
+    font-family: 'Atvice-Bold', cursive;
+    border-radius: 90px;
+    padding: 25px 50px;
+    font-size: 23px;
+    color: #fff;
+    box-shadow: 0 4px 8px #0003, 0 6px 20px #00000030;
+}

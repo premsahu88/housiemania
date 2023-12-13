@@ -1,0 +1,40 @@
+.app-img img {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+img.google-img {
+    width: 55%;
+    margin: 0 auto 20px;
+}
+img.g-scanner {
+    width: 55%;
+}
+.scanner h3 {
+    font-size: 24px;
+    color: white;
+    margin: 20px 0;
+}
+.scanner button {
+    background: linear-gradient(#FFCE3E,#CF7A0F);
+    font-family: ATViCE;
+    padding: 10px 65px;
+    font-size: 20px;
+    color: #fff;
+    box-shadow: 0 4px 8px #0003, 0 6px 20px #00000030;
+    border-radius: 7px;
+    font-family: 'Atvice-Bold', cursive;
+}
+.g-play-content h2 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin: 0 0 50px;
+    font-family: 'Atvice-Bold', cursive;
+}
+.g-play-content h2 span {
+    color: #ffce3e;
+}
+section.google-play {
+    padding: 50px 0;
+}

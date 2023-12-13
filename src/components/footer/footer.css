@@ -1,0 +1,10 @@
+section.footer {
+    padding: 20px 0;
+    border-top: 2px solid gray;
+}
+section.footer p {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Dax', cursive;
+}

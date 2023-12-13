@@ -1,0 +1,22 @@
+.banner {
+    background: #1f1749;
+    padding: 120px 0 50px;
+}
+.banner-img img {
+    width: 100%;
+}
+.banner-content {
+    padding: 100px 50px 0;
+}
+.banner-content h1 {
+    font-size: 65px;
+    color: white;
+    line-height: 100px;
+    font-family: 'Atvice-Bold', cursive;
+}
+.banner-content p {
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    font-family: 'Dax', cursive;
+}

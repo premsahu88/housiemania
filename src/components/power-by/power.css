@@ -1,0 +1,29 @@
+.section.power-by {
+    padding: 50px 0;
+}
+.power-card {
+    width: 550px;
+    margin: 0 auto;
+    background-image: linear-gradient( #171136,#1F1749);
+    padding: 30px;
+    border-radius: 15px;
+}
+.power-card h2 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.power-card img {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+.power-card a {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-family: 'Dax', cursive;
+}

@@ -1,0 +1,36 @@
+
+section.contact {
+    padding: 50px 0;
+}
+.contact-heading h2 span {
+    color: #ffce3e;
+}
+.contact-heading h2 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 0 0 50px;
+}
+section.contact input,section.contact textarea {
+    width: 100%;
+    padding: 15px 15px;
+    margin: 10px 0;
+    border-radius: 10px 10px 0 0;
+    background: #171136;
+    border: none;
+    color: white;
+}
+button.contact-btn {
+    font-size: 25px;
+    padding: 10px 150px;
+    border-radius: 7px;
+    text-align: center;
+    margin: 20px auto 0;
+    display: block;
+    color: #5E3D13;
+    background: #e4a439;
+}
+section.contact form {
+    max-width: 850px;
+    margin: 0 auto;
+}
