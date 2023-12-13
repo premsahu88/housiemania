@@ -14,12 +14,14 @@ function App() {
     <>
       <Header></Header>
       <Banner></Banner>
+      zdfdhfg
       <About></About>
       <GooglePlay></GooglePlay>
       <ContactUs></ContactUs>
       <FAQ></FAQ>
       <PowerBy></PowerBy>
       <Footer></Footer>
+
       
     </>
   );
