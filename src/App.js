@@ -14,7 +14,7 @@ function App() {
     <>
       <Header></Header>
       <Banner></Banner>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aliquam et ducimus excepturi. Vel nihil aliquam, unde molestiae numquam maxime.</p>
+      zdfdhfg
       <About></About>
       <GooglePlay></GooglePlay>
       <ContactUs></ContactUs>
